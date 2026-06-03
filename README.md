@@ -238,6 +238,10 @@ format:
     - Junning Huang, Sirui Xie, Jiankai Sun, Qiurui Ma, Chunxiao Liu, Jianping Shi, Dahua Lin, Bolei Zhou
     - Key: hybrid framework, imitation learning, safety driving
     - Env: [CARLA](https://carla.org/)
+- [StandardE2E: A Framework for Unified End-to-End Autonomous Driving Datasets Processing](https://github.com/stepankonev/StandardE2E)
+    - Stepan Konev
+    - Key: dataset standardization, multimodal, unified dataloader, preprocessing, PyTorch
+    - Env: Waymo End-to-End, Waymo Perception, NAVSIM, WayveScenes101, Argoverse 2
 
 ## Contributing
 Our purpose is to make this repo even better. If you are interested in contributing, please refer to [HERE](CONTRIBUTING.md) for instructions in contribution.
